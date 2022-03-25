@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e96ef26-034e-4e45-b1ca-916cfd1fed58" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/LoginForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/backend/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/backend/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/backend/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$" />
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="25BZfuQB1KUdi9PTJ3yGcfh3lIO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DRF " />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/frontend/src/components" />
+      <recent name="$PROJECT_DIR$/backend" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/backend/library" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="serializers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DRF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backend/library" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backend/library/serializers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.serializers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e96ef26-034e-4e45-b1ca-916cfd1fed58" name="Default Changelist" comment="" />
+      <created>1645002546284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645002546284</updated>
+    </task>
+    <task id="LOCAL-00001">
+      <created>1645291702791</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645291702791</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="410" y="0" width="535" height="726" key="#serializers" timestamp="1648038353221">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="410" y="0" width="535" height="726" key="#serializers/0.0.1366.728@0.0.1366.728" timestamp="1648038353221" />
+    <state x="330" y="0" width="695" height="726" key="CommitChangelistDialog2" timestamp="1645291742032">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="330" y="0" width="695" height="726" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1645291742032" />
+    <state x="466" y="121" width="424" height="482" key="FileChooserDialogImpl" timestamp="1648233882448">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="466" y="121" width="424" height="482" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1648233882448" />
+    <state x="552" y="262" key="Github.ShareDialog" timestamp="1648235380586">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="552" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1648235380586" />
+    <state x="414" y="55" width="499" height="580" key="Github.UntrackedFilesDialog" timestamp="1648041298184">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="414" y="55" width="499" height="580" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1648041298184" />
+    <state width="1333" height="214" key="GridCell.Tab.0.bottom" timestamp="1645786118318">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1333" height="214" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1645786118318" />
+    <state width="1333" height="214" key="GridCell.Tab.0.center" timestamp="1645786118318">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1333" height="214" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1645786118318" />
+    <state width="1333" height="214" key="GridCell.Tab.0.left" timestamp="1645786118317">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1333" height="214" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1645786118317" />
+    <state width="1333" height="214" key="GridCell.Tab.0.right" timestamp="1645786118318">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1333" height="214" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1645786118318" />
+    <state width="1333" height="214" key="GridCell.Tab.1.bottom" timestamp="1645786118319">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1333" height="214" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1645786118319" />
+    <state width="1333" height="214" key="GridCell.Tab.1.center" timestamp="1645786118319">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1333" height="214" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1645786118319" />
+    <state width="1333" height="214" key="GridCell.Tab.1.left" timestamp="1645786118318">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1333" height="214" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1645786118318" />
+    <state width="1333" height="214" key="GridCell.Tab.1.right" timestamp="1645786118319">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1333" height="214" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1645786118319" />
+    <state x="148" y="0" width="910" height="728" key="SettingsEditor" timestamp="1648235368737">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="148" y="0" width="910" height="728" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1648235368737" />
+    <state x="376" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1645089150043">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="376" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1645089150043" />
+    <state x="354" y="55" width="648" height="613" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1647465111608">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="354" y="55" width="648" height="613" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1647465111608" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1647976504204">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1647976504204" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/backend/library/views.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
